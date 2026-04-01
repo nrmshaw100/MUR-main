@@ -1,3 +1,9 @@
 [submodule "MUR-ros2"]
 	path = MUR-ros2
 	url = git@github.com:nrmshaw100/MUR-ros2.git
+[submodule "MUR-system-controller"]
+	path = MUR-system-controller
+	url = git@github.com:nrmshaw100/MUR-system-controller.git
+[submodule "MUR-system-monitor"]
+	path = MUR-system-monitor
+	url = git@github.com:nrmshaw100/MUR-system-monitor.git
